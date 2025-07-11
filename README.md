@@ -12,3 +12,4 @@ Mini-jeux inspirés des fausses pubs TikTok. Créé avec ❤️ par ChatGPT pour
 Ouvre ce projet dans Android Studio et clique sur `Build > Build APK(s)` pour générer ton fichier APK à installer sur ton téléphone.
 
 Besoin d'aide ? Reviens me voir !
+ 
